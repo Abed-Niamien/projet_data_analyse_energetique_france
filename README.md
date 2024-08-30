@@ -50,4 +50,4 @@ Les principaux insights tirés de cette analyse sont les suivants :
 
 ## Auteur
 
-- **Niamien Abed** - *Analyste Principal* - [LinkedIn](https://www.linkedin.com/in/abed-niamien-42798a1a0/)
+- **Niamien Abed** - *Data Analyst Junior* - [LinkedIn](https://www.linkedin.com/in/abed-niamien-42798a1a0/)
